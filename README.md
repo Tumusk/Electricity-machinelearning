@@ -1,9 +1,8 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+#👌 Electricity Predictor
+
 
 Description of the app ...
+This is a machine learning app
 
 ## Demo App
 
